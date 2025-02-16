@@ -32,7 +32,7 @@ E-Library adalah aplikasi perpustakaan digital yang memungkinkan pengguna untuk 
 3. **Install Dependencies:**
 
    ```bash
-   pip install -r requirements.txt
+   ex : pip install django pyMuPdf dll
    ```
 
 4. **Migrate Database:**

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "d:\\Python\\e-library with django\\elibrary\\db.sqlite3"
+  }
+]

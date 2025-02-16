@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+/env/
+/.migrations/
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and temp files
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
